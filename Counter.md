@@ -9,7 +9,7 @@
 **Returns**
 - A function that, when called, returns the next value in the counting sequence, starting from `initialValue` (or 0 by default).
 
-### Examples
+### Example
 
 ```javascript
 const counter = makeCounter();

@@ -1,6 +1,5 @@
 ## Tabs Component
 
-### Overview
 Build a tabs component that displays one panel of content at a time, depending on the active tab element. The provided example includes some basic HTML contents.
 
 ### Requirements

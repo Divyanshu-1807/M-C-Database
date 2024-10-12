@@ -25,7 +25,7 @@ The calculator should compute and display the following:
 ### Formula for Monthly Payment
 
 The monthly mortgage payment is calculated using the formula:
-- `**M = P(i(1+i)n)/((1+i)n - 1)**`
+- **`M = P(i(1+i)n)/((1+i)n - 1)`**
 
 - **M**: Monthly mortgage payment
 - **P**: Loan amount

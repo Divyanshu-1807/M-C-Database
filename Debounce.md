@@ -9,7 +9,7 @@ The `debounce` function takes two parameters:
 1. **Callback function**: The function to be debounced.
 2. **Wait duration**: The delay (in milliseconds) between the last call and the actual invocation.
 
-### Example Code:
+### Example 
 ```javascript
 let i = 0;
 function increment() {

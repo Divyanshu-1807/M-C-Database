@@ -2,7 +2,7 @@
 
 Build a job board that displays the latest job postings fetched from the Hacker News API. Each posting will display the job title, poster, and date posted.
 
-<img src="dice.png" alt="" width="200" height="200">
+<img src="job_board.png" alt="" width="200" height="200">
 
 ### Requirements
 

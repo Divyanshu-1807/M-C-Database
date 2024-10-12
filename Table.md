@@ -1,4 +1,4 @@
-## Users Data Table
+# Users Data Table
 
 Given a list of users, build a users data table that displays users in a paginated format.
 

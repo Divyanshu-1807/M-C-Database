@@ -26,4 +26,4 @@ Hacker News has a public API to fetch jobs from Y Combinator companies. There is
 ### Sample Response
 
 ```json
-[35908337, 35904973, 35900922, 35893439, 35890114, 35880345, ...]
+[35908337, 35904973, 35900922, 35893439, 35890114, 35880345]

@@ -1,4 +1,4 @@
-# File Explorer
+## File Explorer
 
 Given an array of file objects, this component displays them in a hierarchical tree format.
 

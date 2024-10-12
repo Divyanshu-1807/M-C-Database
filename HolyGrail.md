@@ -1,4 +1,4 @@
-## Holy Grail Layout
+## Holy Grail
 
 The Holy Grail layout is a famous CSS page layout that has traditionally been hard to implement. It consists of a header, footer, and three columns:
 
@@ -9,6 +9,9 @@ The Holy Grail layout is a famous CSS page layout that has traditionally been ha
 ### Holy Grail Layout Example
 
 Implement the Holy Grail layout using just CSS. You shouldn't need to change the HTML too much.
+
+<img src="grail.png" alt="" width="300" height="500">
+
 
 ### Requirements
 

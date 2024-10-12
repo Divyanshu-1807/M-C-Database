@@ -6,11 +6,11 @@ The Holy Grail layout is a famous CSS page layout that has traditionally been ha
 - The **middle column** contains the page contents.
 - The **right column** contains ads.
 
-### Holy Grail Layout Example
+#### Holy Grail Layout Example
 
 Implement the Holy Grail layout using just CSS. You shouldn't need to change the HTML too much.
 
-<img src="grail.png" alt="" width="300" height="400">
+<img src="grail.png" alt="" width="400" height="400">
 
 
 ### Requirements

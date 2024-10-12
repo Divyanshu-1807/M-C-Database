@@ -2,6 +2,8 @@
 
 Build a job board that displays the latest job postings fetched from the Hacker News API. Each posting will display the job title, poster, and date posted.
 
+<img src="dice.png" alt="" width="200" height="200">
+
 ### Requirements
 
 - The page should show 6 jobs on initial load with a button to load more postings.
@@ -25,4 +27,4 @@ Hacker News has a public API to fetch jobs from Y Combinator companies. There is
 
 ```json
 [35908337, 35904973, 35900922, 35893439, 35890114, 35880345, ...]
-``
+```

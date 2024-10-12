@@ -1,6 +1,5 @@
 ## MakeCounter
 
-### Description
 `makeCounter` is a function that accepts an optional integer value and returns a new function. The returned function, when called, behaves as a counter. On the first call, it returns the initial value (if provided), otherwise it returns 0. Each subsequent call increases the returned value by 1.
 
 **Parameters**

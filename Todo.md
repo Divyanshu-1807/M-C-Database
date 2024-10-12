@@ -3,7 +3,6 @@
 You're given some existing HTML for a Todo List app.
 
 ### Requirements
-Add the following functionality to the app:
 
 - **Add New Tasks**: Implement functionality to add new tasks when the "Submit" button is clicked.
 - **Clear Input Field**: Ensure that the `<input>` field is cleared upon successful addition of a task.

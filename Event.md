@@ -28,9 +28,9 @@ emitter.emit('foo', -3, 9);
 
 ### API
 
-#### new EventEmitter()
+#### 1. new EventEmitter()
 Creates an instance of the EventEmitter class. Events and listeners are isolated within the EventEmitter instances they're added to, 
 aka listeners shouldn't react to events emitted by other EventEmitter instances.
 
-#### emitter.on(eventName, listener)
+#### 2. emitter.on(eventName, listener)
 Adds a callback function (listener) that will be invoked when an event with the name eventName is emitted.

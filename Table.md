@@ -1,8 +1,8 @@
-## Users Data Table
+# Users Data Table
 
 Given a list of users, build a users data table that displays users in a paginated format.
 
-### Requirements
+## Requirements
 
 ### Table Requirements
 - The users data table should display the following columns:

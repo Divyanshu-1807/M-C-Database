@@ -10,7 +10,7 @@ The Holy Grail layout is a famous CSS page layout that has traditionally been ha
 
 Implement the Holy Grail layout using just CSS. You shouldn't need to change the HTML too much.
 
-<img src="grail.png" alt="" width="300" height="500">
+<img src="grail.png" alt="" width="300" height="400">
 
 
 ### Requirements

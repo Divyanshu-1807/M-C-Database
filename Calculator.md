@@ -2,7 +2,7 @@
 
 A simple mortgage calculator widget that takes in a loan amount, interest rate, loan term, and calculates the monthly mortgage payment, total payment amount, and total interest paid.
 
-### Requirements
+## Requirements
 
 ### User Inputs
 - **Loan amount ($)**: Enter the loan amount.
